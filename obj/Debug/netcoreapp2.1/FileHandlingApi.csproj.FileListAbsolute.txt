@@ -1,0 +1,14 @@
+C:\Users\Ietech-Iyke\source\repos\FileHandlingApi\FileHandlingApi\bin\Debug\netcoreapp2.1\FileHandlingApi.deps.json
+C:\Users\Ietech-Iyke\source\repos\FileHandlingApi\FileHandlingApi\bin\Debug\netcoreapp2.1\FileHandlingApi.runtimeconfig.json
+C:\Users\Ietech-Iyke\source\repos\FileHandlingApi\FileHandlingApi\bin\Debug\netcoreapp2.1\FileHandlingApi.runtimeconfig.dev.json
+C:\Users\Ietech-Iyke\source\repos\FileHandlingApi\FileHandlingApi\bin\Debug\netcoreapp2.1\FileHandlingApi.dll
+C:\Users\Ietech-Iyke\source\repos\FileHandlingApi\FileHandlingApi\bin\Debug\netcoreapp2.1\FileHandlingApi.pdb
+C:\Users\Ietech-Iyke\source\repos\FileHandlingApi\FileHandlingApi\obj\Debug\netcoreapp2.1\FileHandlingApi.csprojAssemblyReference.cache
+C:\Users\Ietech-Iyke\source\repos\FileHandlingApi\FileHandlingApi\obj\Debug\netcoreapp2.1\FileHandlingApi.csproj.CoreCompileInputs.cache
+C:\Users\Ietech-Iyke\source\repos\FileHandlingApi\FileHandlingApi\obj\Debug\netcoreapp2.1\FileHandlingApi.RazorAssemblyInfo.cache
+C:\Users\Ietech-Iyke\source\repos\FileHandlingApi\FileHandlingApi\obj\Debug\netcoreapp2.1\FileHandlingApi.RazorAssemblyInfo.cs
+C:\Users\Ietech-Iyke\source\repos\FileHandlingApi\FileHandlingApi\obj\Debug\netcoreapp2.1\FileHandlingApi.AssemblyInfoInputs.cache
+C:\Users\Ietech-Iyke\source\repos\FileHandlingApi\FileHandlingApi\obj\Debug\netcoreapp2.1\FileHandlingApi.AssemblyInfo.cs
+C:\Users\Ietech-Iyke\source\repos\FileHandlingApi\FileHandlingApi\obj\Debug\netcoreapp2.1\FileHandlingApi.RazorTargetAssemblyInfo.cache
+C:\Users\Ietech-Iyke\source\repos\FileHandlingApi\FileHandlingApi\obj\Debug\netcoreapp2.1\FileHandlingApi.dll
+C:\Users\Ietech-Iyke\source\repos\FileHandlingApi\FileHandlingApi\obj\Debug\netcoreapp2.1\FileHandlingApi.pdb
